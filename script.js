@@ -6,8 +6,8 @@ gsap.to("#c-img-para1", {
         trigger: "#abyss-creture",
         scroller: "body",
         // markers: true,
-        start: "top 40%",
-        end: "top 20%",
+        start: "top 50%",
+        end: "top 30%",
         scrub: 1,
     },
 })
@@ -19,8 +19,8 @@ gsap.to("#c-img-para2", {
         trigger: "#abyss-creture",
         scroller: "body",
         // markers: true,
-        start: "top 40%",
-        end: "top 20%",
+        start: "top 50%",
+        end: "top 30%",
         scrub: 1,
     },
 })
@@ -32,8 +32,8 @@ gsap.to("#c-img-para3", {
         trigger: "#abyss-creture",
         scroller: "body",
         // markers: true,
-        start: "top 40%",
-        end: "top 20%",
+        start: "top 50%",
+        end: "top 30%",
         scrub: 1,
     },
 })
@@ -45,8 +45,8 @@ gsap.to("#c-img-para4", {
         trigger: "#abyss-creture",
         scroller: "body",
         // markers: true,
-        start: "top 40%",
-        end: "top 20%",
+        start: "top 50%",
+        end: "top 30%",
         scrub: 1,
     },
 })
@@ -58,8 +58,8 @@ gsap.to("#c-img-para5", {
         trigger: "#abyss-creture",
         scroller: "body",
         // markers: true,
-        start: "top 40%",
-        end: "top 20%",
+        start: "top 50%",
+        end: "top 30%",
         scrub: 1,
     },
 })
@@ -71,33 +71,33 @@ gsap.to("#shop", {
         trigger: "#abyss-tshirt",
         // markers: true,
         start: "top 25%",
-        end: "top -5%",
+        end: "top 0%",
         scrub: 2,
     }
 })
 
 gsap.to("#line1",{
-    height:"30vw",
+    height:"10vw",
     duration:0.5,
     scrollTrigger: {
         trigger: "#threats",
         scroller: "body",
         // markers: true,
-        start: "top 25%",
-        end: "top 0%",
+        start: "top 50%",
+        end: "top 25%",
         scrub: 2,
     },
 })
 
 gsap.to("#line2",{
-    height:"18vw",
+    height:"12vw",
     duration:0.5,
     scrollTrigger: {
         trigger: "#mitigation",
         scroller: "body",
         // markers: true,
-        start: "top 40%",
-        end: "top 10%",
+        start: "top 50%",
+        end: "top 30%",
         scrub: 2,
     },
 })

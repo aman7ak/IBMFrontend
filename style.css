@@ -27,7 +27,7 @@ body{
     /* height: 100%; */
     width: 100%;
     /* border: 2px solid red; */
-    padding: 0vw 2vw;
+    padding: 0vw 5vw;
 }
 
 /* description */
@@ -75,6 +75,12 @@ body{
     width: 60%;
 }
 
+.thr-desc-span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .thr-desc{
     display: flex;
     flex-direction: column;
@@ -86,12 +92,12 @@ body{
     width: 100%;
     /* border: 2px solid yellow; */
     position: relative;
-    margin: 2vw 0vw;
+    margin: 2vw 0 0 0;
 }
 
 .creature-img-para {
     background: linear-gradient(90deg, #100C48, #161168, #1F1B9C);
-    height: 75%;
+    height: 65%;
     width: 18%;
     position: absolute;
     left: 40%;
@@ -119,7 +125,7 @@ body{
 .c-para {
     font-size: 1vw;
     position: absolute;
-    bottom: -78%;
+    bottom: -70%;
     left: 0;
     padding: 1.5vw;
     height: 100%;
@@ -163,7 +169,6 @@ body{
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    margin-top: 5vw;
     /* border: 2px solid tomato; */
 }
 
@@ -179,7 +184,7 @@ body{
 .tshirt-img-para {
     height: 20vw;
     width: 20vw;
-    background-color: #39394840;
+    background-color: #cacae387;
     position: relative;
     overflow: hidden;
     border-radius: 5%;
@@ -244,10 +249,16 @@ body{
     background-color: rgba(0, 255, 255, 0.499);
     cursor: pointer;
     font-size: 2.5vw;
-    padding: 0.5vw 1vw;
+    padding: 1vw 2vw;
+    text-wrap: nowrap;
 }
 
 #t-img-para9 h3:hover{
     background-color: rgba(0, 255, 255, 0.663);
     transition: all .5s ease-in;
+}
+
+#t-img-para9{
+    height: fit-content;
+    width: fit-content;
 }
