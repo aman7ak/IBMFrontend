@@ -1,0 +1,17 @@
+titanic
+Personal Belongings: Items such as luggage, clothing, shoes, and personal effects of passengers and crew are scattered across the seabed.
+Ship Components: Various parts of the ship, including pieces of the hull, deck machinery, and lifeboat parts, are found around the main wreck. These remnants help researchers understand the construction and design of the Titanic, as well as the forces involved in its sinking.
+Tableware and Furnishings: Plates, cups, cutlery, and other dining ware, along with furniture and decorative items from the ship's luxurious interiors, lie amid the wreckage. These artifacts reflect the opulence of the Titanic and the lifestyle of its passengers.
+Coal and Cargo: The Titanic was carrying coal to fuel its engines and various cargo items, including automobiles, mail, and goods.
+
+// Deep-Sea Jellyfish: Found throughout the abyssopelagic zone, these jellyfish can survive and thrive at depths from 4,000 to 6,000 meters.
+
+// Vampire Squid: Typically found between 2,000 and 3,000 meters but can extend into the abyssopelagic zone, especially around 3,000 to 4,000 meters.
+
+Abyssal Fish: Various species of fish, such as the cusk eel, are commonly found at depths of 4,000 to 6,000 meters.
+
+// Deep-Sea Cucumber: These benthic creatures are found crawling along the ocean floor at depths ranging from 4,000 to 6,000 meters, feeding on detritus.
+
+// Basket Stars: A type of brittle star, these echinoderms are found on the seafloor at depths between 4,000 and 6,000 meters.
+
+//Giant Tube Worms: Often found near hydrothermal vents, these organisms can be found at depths around 4,000 meters.
